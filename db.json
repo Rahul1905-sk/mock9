@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "username": "Karan",
+      "password": "karan@123",
+      "avatar": "https://w7.pngwing.com/pngs/340/946/png-transparent-avatar-user-computer-icons-software-developer-avatar-child-face-heroes-thumbnail.png",
+      "email": "karan1@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "anshu",
+      "password": "anshu@123",
+      "avatar": "https://w7.pngwing.com/pngs/340/946/png-transparent-avatar-user-computer-icons-software-developer-avatar-child-face-heroes-thumbnail.png",
+      "email": "anshu@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "ram",
+      "password": "ram@123",
+      "avatar": "https://w7.pngwing.com/pngs/340/946/png-transparent-avatar-user-computer-icons-software-developer-avatar-child-face-heroes-thumbnail.png",
+      "email": "ram@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "qq",
+      "email": "qq@gmail.com",
+      "password": "qq123",
+      "data": [
+        {
+          "type": "income",
+          "category": "housing",
+          "amount": 1212,
+          "date": "2023-06-08"
+        },
+        {
+          "type": "expense",
+          "category": "shopping",
+          "amount": 12,
+          "date": "2023-06-08"
+        },
+        {
+          "type": "expense",
+          "category": "bills",
+          "amount": 7,
+          "date": "2023-06-19"
+        },
+        {
+          "type": "expense",
+          "category": "lifestyle",
+          "amount": 3,
+          "date": "2023-06-19"
+        },
+        {
+          "type": "expense",
+          "category": "lifestyle",
+          "amount": 3,
+          "date": "2023-06-19"
+        },
+        {
+          "type": "expense",
+          "category": "food",
+          "amount": 34,
+          "date": "2023-06-10"
+        },
+        {
+          "type": "expense",
+          "category": "food",
+          "amount": 344,
+          "date": "2023-06-08"
+        },
+        {
+          "type": "income",
+          "category": "gifts",
+          "amount": 50000,
+          "date": "2023-06-16"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "kk",
+      "email": "kk@gmail.com",
+      "password": "kk123",
+      "data": [
+        {
+          "type": "expense",
+          "category": "shopping",
+          "amount": 3443,
+          "date": "2023-06-15"
+        },
+        {
+          "type": "expense",
+          "category": "vehicle",
+          "amount": 344334,
+          "date": "2023-06-15"
+        },
+        {
+          "type": "expense",
+          "category": "lifestyle",
+          "amount": 323,
+          "date": "2023-06-15"
+        },
+        {
+          "type": "income",
+          "category": "gifts",
+          "amount": 234333,
+          "date": "2023-06-22"
+        },
+        {
+          "type": "income",
+          "category": "salary",
+          "amount": 2343454,
+          "date": "2023-06-22"
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
