@@ -1,7 +1,7 @@
 import { add_data_req_success, login_req_success, signup_req_success } from "./actionType";
 
 const init = {
-  isAuth: true,
+  isAuth: false,
   users: [],
 };
 
